@@ -1,0 +1,25 @@
+{
+  "name": "pshe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "пше": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shastel/pshe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shastel/pshe/issues"
+  },
+  "homepage": "https://github.com/Shastel/pshe#readme",
+  "dependencies": {
+    "convert-layout": "^0.7.0"
+  }
+}
