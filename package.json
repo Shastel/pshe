@@ -1,6 +1,6 @@
 {
   "name": "pshe",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "bin": {
     "пше": "lib/git.js",
-    "тзь": "lib/npm.js"
+    "тзь": "lib/npm.js",
+    "нфкт": "lib/yarn.js"
   },
   "repository": {
     "type": "git",
