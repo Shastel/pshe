@@ -9,6 +9,7 @@
   "bin": {
     "пше": "lib/git.js",
     "тзь": "lib/npm.js",
+    "тзч": "lib/npx.js",
     "нфкт": "lib/yarn.js"
   },
   "repository": {
