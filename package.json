@@ -1,7 +1,7 @@
 {
   "name": "pshe",
   "version": "1.2.1",
-  "description": "",
+  "description": "Adding пше to your $PATH",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
