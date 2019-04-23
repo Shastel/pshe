@@ -1,10 +1,14 @@
 # pshe
+## Пше
 
-Have you ever accidentally missed keyboard layout and typed smth like:
-`пше сруслщге ю`?
-Now with pshe it works! 
-Just install pshe globally with:  
-```
+Когданибудь набирал по ошибке `пше` вместо `git`, `тзь` вместо `npm`?  
+Этот пакет помогает решить эту проблему!
+
+Устанавливаешь пакет глобально
+```sh
 npm install -g pshe
 ```
-And enjoy
+
+И вуаля, комманда `пше сруслщге ю` будет работать как `git checkout .`
+
+Enjoy
