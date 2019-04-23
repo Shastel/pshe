@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Shastel/pshe#readme",
   "dependencies": {
-    "convert-layout": "^0.7.0"
+    "convert-layout": "^0.8.0"
   }
 }
