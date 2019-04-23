@@ -1,6 +1,6 @@
 {
   "name": "pshe",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Adding пше to your $PATH",
   "main": "index.js",
   "scripts": {
