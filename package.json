@@ -1,6 +1,6 @@
 {
   "name": "pshe",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Adding пше to your $PATH",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,12 @@
     "тзч": "lib/npx.js",
     "нфкт": "lib/yarn.js"
   },
+  "keywords": [
+    "пше",
+    "тзь",
+    "тзч",
+    "нфкт"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shastel/pshe.git"
