@@ -10,7 +10,9 @@
     "пше": "lib/git.js",
     "тзь": "lib/npm.js",
     "тзч": "lib/npx.js",
-    "нфкт": "lib/yarn.js"
+    "нфкт": "lib/yarn.js",
+    "мшь": "lib/vim.js",
+    "уьфсы": "lib/emacs.js"
   },
   "keywords": [
     "пше",
