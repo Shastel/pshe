@@ -8,6 +8,8 @@
   },
   "bin": {
     "пше": "lib/git.js",
+    "рги": "lib/hub.js",
+    "пр": "lib/gh.js",
     "тзь": "lib/npm.js",
     "тзч": "lib/npx.js",
     "нфкт": "lib/yarn.js",
