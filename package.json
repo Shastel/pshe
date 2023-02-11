@@ -34,6 +34,6 @@
   "homepage": "https://github.com/Shastel/pshe#readme",
   "dependencies": {
     "convert-layout": "^0.8.0",
-    "update-notifier": "^4.1.0"
+    "update-notifier": "^6.0.2"
   }
 }
