@@ -20,5 +20,8 @@ npm install -g pshe
 * `нфкт` -> `yarn`
 * `уьфсы` -> `emacs`
 * `мшь` -> `vim`
+* `сщвуч` -> `codex`
+* `сдфгву` -> `claude`
+* `сщзшдще` -> `copilot`
 
 Enjoy
